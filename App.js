@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Otavio Santos</Text>
       <Text>Desenvolvimento de Dispositivos Móveis - 22/02/24</Text>
+      <Text>Desenvolvimento de Dispositivos Móveis - 29/02/24</Text>
       <StatusBar style="auto" />
     </View>
   );
