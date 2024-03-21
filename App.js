@@ -5,16 +5,7 @@ import { StyleSheet, Text, View, Button } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>E.T. Bilu</Text>
-      <br></br>
-      <Text>Desenvolvimento de Dispositivos Móveis - 22/02/24</Text>
-      <br></br>
-      <Text>Desenvolvimento de Dispositivos Móveis - 29/02/24</Text>
-      <br></br>
-      <Text>Desenvolvimento de Dispositivos Móveis - 14/03/24</Text>
-      <br></br>
-      <Button title = 'Salvar'></Button>
-
+      <Text>Otavio Deanuncio Marcondes dos Santos</Text>
       <StatusBar style="auto" />
     </View>
   );

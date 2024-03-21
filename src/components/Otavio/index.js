@@ -5,7 +5,7 @@ export default function Title(){
     return(
 <View>
     <Text>
-        Titulo 3b1 Lado B
+        Nome: Otavio Deanuncio Marcondes dos Santos
     </Text>
 </View>
     );
